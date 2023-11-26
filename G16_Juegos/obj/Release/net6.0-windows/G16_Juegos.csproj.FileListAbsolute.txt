@@ -1,0 +1,17 @@
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\bin\Release\net6.0-windows\G16_Juegos.exe
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\bin\Release\net6.0-windows\G16_Juegos.deps.json
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\bin\Release\net6.0-windows\G16_Juegos.runtimeconfig.json
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\bin\Release\net6.0-windows\G16_Juegos.dll
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\bin\Release\net6.0-windows\G16_Juegos.pdb
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.FrmDatos.resources
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.Properties.Resources.resources
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.csproj.GenerateResource.cache
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.AssemblyInfo.cs
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.dll
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\refint\G16_Juegos.dll
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.pdb
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\G16_Juegos.genruntimeconfig.cache
+C:\Users\david\Desktop\G16_Juegos\G16_Juegos\obj\Release\net6.0-windows\ref\G16_Juegos.dll

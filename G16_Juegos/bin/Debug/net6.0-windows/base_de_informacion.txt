@@ -1,0 +1,5 @@
+Tetris,Ganado +100,100
+Tetris,Perdido -20,80
+Pacman,Ganado +100,100
+Dota,Ganado +100,100
+Dota,Perdido -20,80
